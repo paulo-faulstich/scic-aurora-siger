@@ -133,4 +133,6 @@ O sistema calcula `P = V × I` (W), `E = P × minutos / 60` (Wh) e resistência 
 
 Os indicadores podem apoiar inspeções de alimentação e rede. Redundância de enlace, sensores físicos, armazenamento com reenvio e manutenção preditiva avançada são propostas futuras. Não há economia de energia comprovada pelo protótipo.
 
+O relatório também relaciona a comunicação a **microrredes**: geração local, armazenamento e cargas coordenadas poderiam preservar módulos essenciais e o retransmissor durante falhas de suprimento. A rede transportaria medições e alertas para a supervisão energética, enquanto dependeria da energia para continuar operando. A subtensão de MED e o consumo em Wh apoiam essa discussão; o SCIC não controla baterias, geração ou desligamento de cargas, nem estima autonomia real.
+
 O relatório conecta transparência, diversidade cultural, linguagem inclusiva, supervisão humana e sustentabilidade aos dados e às regras. Os resultados sintéticos não comprovam ausência de viés nem confiabilidade em operação real.
