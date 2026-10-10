@@ -19,9 +19,9 @@ O trecho modelado é o **enlace local entre os módulos e o retransmissor**. A p
 | `requirements.txt` | Dependências diretas do programa |
 | `relatorio_tecnico.pdf` | Método, resultados, estruturas, eletricidade, gestão e reflexão social |
 | `graficos_ou_imagens/` | Previsão versus observação, MAE por módulo e consumo estimado |
-| `link_video.txt` | Endereço da apresentação, após gravação/publicação |
+| `link_video.txt` | Endereço da apresentação publicada no YouTube |
 
-**Estado do vídeo:** gravação e publicação pendentes. O pacote de revisão permite executar e avaliar o projeto; a entrega final depende do link real do vídeo não listado, de até cinco minutos.
+**Apresentação:** [SCIC - Aurora Siger - Fase 6 | FIAP](https://youtu.be/1DE9Vw64_SM), publicada no YouTube como não listado, com duração de **4min59s**. O endereço também está em `link_video.txt`.
 
 ## Instalação e execução
 
